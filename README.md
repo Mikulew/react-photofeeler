@@ -41,3 +41,10 @@ npm install
 # build for production with minification in the "build" directory
 npm run build
 ```
+
+### Demounting setup
+
+```bash
+# remove the "build" directory
+npm run clean
+```
