@@ -13,7 +13,7 @@ Coming soon...
 ## Technologies
 
 - HTML5
-- CSS/Atomic Design
+- SCSS/Atomic Design
 - React 17.0
 - TypeScript/JavaScript (ES6+)
 - npm
